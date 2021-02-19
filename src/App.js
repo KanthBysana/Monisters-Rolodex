@@ -31,7 +31,7 @@ class App extends Component {
     return (
 
       <div className="App">
-      <h1>Monisters</h1>
+      <h1>Monisters Rolodex</h1>
         <SearchBox onChangeHandeler={this.onChangeHandeler} placeholder="Search Monisters" />
         <Cardlist monisters={filterdMonisters} />
       </div>

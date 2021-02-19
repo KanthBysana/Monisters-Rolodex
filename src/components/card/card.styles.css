@@ -13,3 +13,8 @@
 .card-cotainer:hover{
     transform: scale(1.05);
 }
+
+.card-cotainer > img{
+    max-height:200px;
+    width: auto;
+}
