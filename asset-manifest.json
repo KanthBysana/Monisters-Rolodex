@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KanthBysana/Monisters-Rolodex/static/css/main.68827d90.chunk.css",
+    "main.js": "/KanthBysana/Monisters-Rolodex/static/js/main.f9790ba7.chunk.js",
+    "main.js.map": "/KanthBysana/Monisters-Rolodex/static/js/main.f9790ba7.chunk.js.map",
+    "runtime-main.js": "/KanthBysana/Monisters-Rolodex/static/js/runtime-main.e6cb0ae7.js",
+    "runtime-main.js.map": "/KanthBysana/Monisters-Rolodex/static/js/runtime-main.e6cb0ae7.js.map",
+    "static/js/2.b11ad93d.chunk.js": "/KanthBysana/Monisters-Rolodex/static/js/2.b11ad93d.chunk.js",
+    "static/js/2.b11ad93d.chunk.js.map": "/KanthBysana/Monisters-Rolodex/static/js/2.b11ad93d.chunk.js.map",
+    "static/js/3.94d70ae0.chunk.js": "/KanthBysana/Monisters-Rolodex/static/js/3.94d70ae0.chunk.js",
+    "static/js/3.94d70ae0.chunk.js.map": "/KanthBysana/Monisters-Rolodex/static/js/3.94d70ae0.chunk.js.map",
+    "index.html": "/KanthBysana/Monisters-Rolodex/index.html",
+    "static/css/main.68827d90.chunk.css.map": "/KanthBysana/Monisters-Rolodex/static/css/main.68827d90.chunk.css.map",
+    "static/js/2.b11ad93d.chunk.js.LICENSE.txt": "/KanthBysana/Monisters-Rolodex/static/js/2.b11ad93d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/KanthBysana/Monisters-Rolodex/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6cb0ae7.js",
+    "static/js/2.b11ad93d.chunk.js",
+    "static/css/main.68827d90.chunk.css",
+    "static/js/main.f9790ba7.chunk.js"
+  ]
+}
