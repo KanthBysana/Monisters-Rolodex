@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/KanthBysana/Monisters-Rolodex/static/css/main.68827d90.chunk.css",
-    "main.js": "/KanthBysana/Monisters-Rolodex/static/js/main.b635d403.chunk.js",
-    "main.js.map": "/KanthBysana/Monisters-Rolodex/static/js/main.b635d403.chunk.js.map",
-    "runtime-main.js": "/KanthBysana/Monisters-Rolodex/static/js/runtime-main.839745c2.js",
-    "runtime-main.js.map": "/KanthBysana/Monisters-Rolodex/static/js/runtime-main.839745c2.js.map",
-    "static/js/2.df3b40fc.chunk.js": "/KanthBysana/Monisters-Rolodex/static/js/2.df3b40fc.chunk.js",
-    "static/js/2.df3b40fc.chunk.js.map": "/KanthBysana/Monisters-Rolodex/static/js/2.df3b40fc.chunk.js.map",
-    "static/js/3.4849f9d1.chunk.js": "/KanthBysana/Monisters-Rolodex/static/js/3.4849f9d1.chunk.js",
-    "static/js/3.4849f9d1.chunk.js.map": "/KanthBysana/Monisters-Rolodex/static/js/3.4849f9d1.chunk.js.map",
-    "index.html": "/KanthBysana/Monisters-Rolodex/index.html",
-    "static/css/main.68827d90.chunk.css.map": "/KanthBysana/Monisters-Rolodex/static/css/main.68827d90.chunk.css.map",
-    "static/js/2.df3b40fc.chunk.js.LICENSE.txt": "/KanthBysana/Monisters-Rolodex/static/js/2.df3b40fc.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/KanthBysana/Monisters-Rolodex/static/media/logo.6ce24c58.svg"
+    "main.css": "/Monisters-Rolodex/static/css/main.68827d90.chunk.css",
+    "main.js": "/Monisters-Rolodex/static/js/main.b635d403.chunk.js",
+    "main.js.map": "/Monisters-Rolodex/static/js/main.b635d403.chunk.js.map",
+    "runtime-main.js": "/Monisters-Rolodex/static/js/runtime-main.89e4a686.js",
+    "runtime-main.js.map": "/Monisters-Rolodex/static/js/runtime-main.89e4a686.js.map",
+    "static/js/2.df3b40fc.chunk.js": "/Monisters-Rolodex/static/js/2.df3b40fc.chunk.js",
+    "static/js/2.df3b40fc.chunk.js.map": "/Monisters-Rolodex/static/js/2.df3b40fc.chunk.js.map",
+    "static/js/3.4849f9d1.chunk.js": "/Monisters-Rolodex/static/js/3.4849f9d1.chunk.js",
+    "static/js/3.4849f9d1.chunk.js.map": "/Monisters-Rolodex/static/js/3.4849f9d1.chunk.js.map",
+    "index.html": "/Monisters-Rolodex/index.html",
+    "static/css/main.68827d90.chunk.css.map": "/Monisters-Rolodex/static/css/main.68827d90.chunk.css.map",
+    "static/js/2.df3b40fc.chunk.js.LICENSE.txt": "/Monisters-Rolodex/static/js/2.df3b40fc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Monisters-Rolodex/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.839745c2.js",
+    "static/js/runtime-main.89e4a686.js",
     "static/js/2.df3b40fc.chunk.js",
     "static/css/main.68827d90.chunk.css",
     "static/js/main.b635d403.chunk.js"
